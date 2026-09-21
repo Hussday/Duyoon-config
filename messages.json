@@ -1,0 +1,10 @@
+[
+  {
+    "id": "msg1",
+    "severity": "info",
+    "title": "مرحباً",
+    "body": "نص الرسالة",
+    "action_label": "",
+    "action_url": ""
+  }
+]
